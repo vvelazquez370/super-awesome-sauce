@@ -1,2 +1,3 @@
 # super-awesome-sauce
-Description :)
+Veronica Velazquez
+Christian Campos
