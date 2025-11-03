@@ -1,3 +1,2 @@
 # super-awesome-sauce
-Veronica Velazquez
-Christian Campos
+Veronica Velazquez / Christian Campos
